@@ -6,7 +6,7 @@ I started with Python through CS50P, and a lot of my project ideas come from thi
 
 I play guitar, so I built **GuitarGlow**, an audio visualiser that turns the sound of my playing into moving visuals. I also made **Command Center** to keep track of things like guitar practice, debating and workouts. Another project, **Debate Motion Generator**, came from wanting a simple way to practise parliamentary debating.
 
-More recently, I've started exploring web development. I've been working on **ARC**, a personal goal and fitness tracker, and **Form Check**, an exercise tracker using pose estimation. I've also been experimenting with AI-assisted development tools and learning how to understand, test and improve the code they generate.
+More recently, I've started exploring web development. I've been working on **ARC**, a personal goal and fitness tracker,  I've also been experimenting with AI-assisted development tools and learning how to understand, test and improve the code they generate.
 
 Outside programming, I'm involved in competitive parliamentary debating and music. I've performed with different bands in Bangladesh and Australia, and I've been selected for the Illawarra/South East Regional Representative Team for debating.
 
